@@ -1,0 +1,14 @@
+{
+  "name": "examen2",
+  "version": "1.0.0",
+  "description": "examen cibertec",
+  "main": "problema1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Carbajal",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
+}
